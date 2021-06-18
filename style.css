@@ -1,0 +1,82 @@
+style.css
+
+
+header{
+	padding-left: 90px; 
+}
+
+section{
+	height: 650px;
+}
+
+#container{
+	display: flex;
+	margin:-10px;
+	height: 100%;
+	
+}
+
+.block-left{
+	width: 50%; 
+	padding-left:100px; 
+	padding-right: 100px;
+	background-color: #ededed;
+	font-family: Georgia, serif;
+	text-align: justify; 
+	color: #001829;
+	border-radius: 10px;
+}
+
+h2{
+	font-size: 50px; 
+}
+
+.One-planet{
+	color: #31c3e7;
+	font-style: normal;
+}
+
+.One-people{
+	color: #001829;
+	font-style: normal;
+	padding-left: 100px;
+}
+
+.description-text{
+	font-style: italic;
+}
+
+.menu{
+	text-align: center;
+}
+
+.Menu1{
+	border-radius: 10px;
+	background-color: white;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-bottom: 10px;
+
+}
+
+.Menu2{
+	border-radius: 10px;
+	background-color: white; 
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.block-right{
+	background-color: #001829; 
+	width: 50%;
+	border-radius: 10px;
+}
+
+.img-planet{
+	padding-top: 20%;
+	margin: auto;
+}
+
+footer{
+	padding-left: 90px;
+}
